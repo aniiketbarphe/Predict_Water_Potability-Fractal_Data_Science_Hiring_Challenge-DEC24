@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d28a46e4-e753-4aef-be63-ff7dcf772c2f)
+![IMAGE](https://github.com/user-attachments/assets/1699ec63-8900-423d-b990-a2bfcea1138c)
 
 # Predict_Water_Potability-Fractal_Data_Science_Hiring_Challenge-DEC24
 
